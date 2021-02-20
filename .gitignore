@@ -1,0 +1,3 @@
+*.DS_Store
+node_modules
+t05/marvel_characters_info.csv
